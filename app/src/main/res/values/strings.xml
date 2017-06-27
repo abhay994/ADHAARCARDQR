@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"ADHAARCARD QR "</string>
+    <string name="title_activity_scan">Main2Activity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="transition_string">hellwo</string>
+    <string name="adds">ca-app-pub-4855672100917117/6851968181</string>
+    <string name="addsnative">ca-app-pub-4855672100917117/8049499783</string>
+</resources>

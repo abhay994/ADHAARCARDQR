@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630395273271",
+    "firebase_url": "https://adhaarcardqr.firebaseio.com",
+    "project_id": "adhaarcardqr",
+    "storage_bucket": "adhaarcardqr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630395273271:android:11ea50c0902a6413",
+        "android_client_info": {
+          "package_name": "com.ar.qr.adhaarcard.adhaarcardqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630395273271-d727ltbiss9igdplj9tfodgj1hef4596.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ar.qr.adhaarcard.adhaarcardqr",
+            "certificate_hash": "098c9e631ba5745b89e0057fa0e4ee1c3eb03915"
+          }
+        },
+        {
+          "client_id": "630395273271-g7kg0kk9ekof24rpc9ntleth0u180au6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRgygLt3wIuy541dsZDgk_YJHGpOEaeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630395273271-g7kg0kk9ekof24rpc9ntleth0u180au6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
